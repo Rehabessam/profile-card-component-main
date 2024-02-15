@@ -30,7 +30,7 @@ body
     justify-content: center;
     position: relative; */
 }
-h3
+h1
 {
     font-weight: 700;
     font-size: 20px;
@@ -48,6 +48,8 @@ margin-top: 3px;} */
 .container h3{
     font-size: 1.4rem;
     margin: 0;
+    color: var(--hd-text-color);
+    font-weight: 700;
 }
 .container p{font-size: 0.7rem; font-weight: 600;}
 .card-body
